@@ -1,2 +1,4 @@
-//Nama , Link
-["Ww","httpps1","rds","httpps2"]
+{
+  "nama": ["1","2"],
+  "link": ["rds","httpps2"]
+}
