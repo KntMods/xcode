@@ -1,8 +1,12 @@
 [{
   "nama": "nama1",
+  "author": "",
+  "deploy": "",
   "link": "https:1"
 },
 {
   "nama": "nama2",
+  "author": "",
+  "deploy": "",
   "link": "https:2"
 }]
