@@ -1,14 +1,14 @@
 [{
   "name": "nama1",
   "author": "kentav",
-  "status": "success",
+  "status": "-success",
   "deploy": "12/10/2022",
   "link": "https:1"
 },
 {
   "nama": "nama2",
   "author": "kentav",
-  "status": "secondary",
+  "status": "-secondary",
   "deploy": "12/10/2022",
   "link": "https:2"
 }]
