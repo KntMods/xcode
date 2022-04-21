@@ -1,12 +1,14 @@
 [{
-  "nama": "nama1",
+  "name": "nama1",
   "author": "kentav",
+  "status": "bg-gradient-success",
   "deploy": "12/10/2022",
   "link": "https:1"
 },
 {
   "nama": "nama2",
   "author": "kentav",
+  "status": "bg-gradient-secondary",
   "deploy": "12/10/2022",
   "link": "https:2"
 }]
