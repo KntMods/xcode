@@ -1,4 +1,8 @@
+[{
+  "nama": "nama1",
+  "link": "https:1"
+},
 {
-  "nama": ["1","2"],
-  "link": ["rds","httpps2"]
-}
+  "nama": "nama2",
+  "link": "https:2"
+}]
