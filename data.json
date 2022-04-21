@@ -6,9 +6,9 @@
   "link": "https:1"
 },
 {
-  "nama": "nama2",
+  "name": "nama2",
   "author": "kentav",
-  "status": "bg-gradient-success",
+  "status": "bg-gradient-secondary",
   "deploy": "12/10/2022",
   "link": "https:2"
 }]
