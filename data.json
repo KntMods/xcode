@@ -3,31 +3,10 @@
   "author": "kentav",
   "status": "bg-gradient-success",
   "deploy": "12/10/2022",
-  "link": "https:1"
+  "link": "https://github.com/KntMods/xcode/edit/main/data.json"
 },
 {
   "name": "nama2",
-  "author": "kentav",
-  "status": "bg-gradient-secondary",
-  "deploy": "12/10/2022",
-  "link": "https:2"
-},
-{
-  "name": "nama3",
-  "author": "kentav",
-  "status": "bg-gradient-success",
-  "deploy": "12/10/2022",
-  "link": "https:1"
-},
-{
-  "name": "nama4",
-  "author": "kentav",
-  "status": "bg-gradient-secondary",
-  "deploy": "12/10/2022",
-  "link": "https:2"
-},
-{
-  "name": "nama5",
   "author": "kentav",
   "status": "bg-gradient-secondary",
   "deploy": "12/10/2022",
