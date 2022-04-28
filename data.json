@@ -8,7 +8,7 @@
 {
   "name": "done",
   "author": "kentav",
-  "status": "bg-gradient-secondary",
+  "status": "bg-gradient-success",
   "deploy": "12/10/2022",
   "link": "https:https://github.com/KntMods/xcode/archive/refs/heads/main.zip"
 }]
