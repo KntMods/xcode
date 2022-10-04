@@ -1,16 +1,13 @@
 {
-    "posts": [{
-        "id": 1,
+    "list": [{
         "name": "Satheesh",
         "link_download": "Sat@mail.com",
         "imag": "South street"
     }, {
-        "id": 2,
         "name": "a",
         "link_download": "Sat@mail.com",
         "imag": "South street"
     }, {
-        "id": 3,
         "name": "s",
         "link_download": "Sat@mail.com",
         "imag": "South street"
